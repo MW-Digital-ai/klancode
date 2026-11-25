@@ -10,7 +10,7 @@
 
 ---
 
-> **Nota organizacional:** Vitrine pública oficial da **KLANCODE** (organização [`MW-Digital-ai`](https://github.com/MW-Digital-ai), que consolidou a antiga frente MW Digital).
+> **Nota organizacional:** Vitrine pública oficial da **KLANCODE** na organização [KLANCODE no GitHub](https://github.com/MW-Digital-ai).
 
 ## 👋 Sobre a KLANCODE
 
@@ -48,7 +48,7 @@ Acompanhe nossa organização no GitHub para novidades e projetos públicos. *(C
 
 <p align="center">
   <a href="https://github.com/MW-Digital-ai">
-    <img src="https://img.shields.io/badge/GitHub-KLANCODE%20(MW--Digital--ai)-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organização KLANCODE no GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-KLANCODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Organização KLANCODE no GitHub" />
   </a>
 </p>
 
